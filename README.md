@@ -1,2 +1,2 @@
 # phone-icp
-workshop ice
+workshop icp
